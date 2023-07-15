@@ -1,0 +1,2 @@
+# AttachmentSyncPlugin
+ The AttachmentSync Plugin is a powerful tool designed to enhance weapon systems within Unreal Engine projects. This plugin enables developers to easily manage and attach various weapon attachments, such as scopes, silencers, and grips, to their weapons. The plugin supports asynchronous loading and unloading of attachments, as well as attachment spawning based on gameplay tags and keys from maps.
