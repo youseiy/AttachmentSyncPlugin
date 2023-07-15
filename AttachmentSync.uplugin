@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AttachmentSync",
+	"Description": "Plugin that gives the ability to any weapon to have attachments",
+	"Category": "Code",
+	"CreatedBy": "Yousei",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.1.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "AttachmentSync",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
